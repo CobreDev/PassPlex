@@ -1,0 +1,9 @@
+Package: dev.cobre.passplex
+Name: PassPlex
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Cobre <cobre@cobre.dev>
+Author: Cobre <cobre@cobre.dev>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
